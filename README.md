@@ -10,7 +10,7 @@ One original line of fortune-cookie wisdom for a software developer — a [make.
 
 > The estimate you give today is the apology you will write next month.
 
-70 characters. An estimate, given lightly today, comes back next month as the apology the developer has to write — a fortune-cookie shape around a truth every developer recognises, with a quiet second meaning: the apology is both the explanation owed and the estimate itself, taken back.
+69 characters. An estimate, given lightly today, comes back next month as the apology the developer has to write — a fortune-cookie shape around a truth every developer recognises, with a quiet second meaning: the apology is both the explanation owed and the estimate itself, taken back.
 
 ## Run it
 
